@@ -9,12 +9,11 @@
 <br /> 
 
 <!--Start Intro-->               
-<p align="left">I am a Machine Learning and Software Developer with a huge love for Python, Generative AI, Data Structures, Algorithms and Technology.</p>
+<p align="left">I am a Machine Learning and Software Developer with a huge love for Python, Generative AI, Data Structures, Algorithms, and Technology.</p>
 
 - ✨ Student of life :)
-- 🌱 I’m currently learning many things; I believe that every day is a learning opportunity.
-- 💁‍♂️ Active participant in [Smart India Hackathon](https://github.com/Mahesh-ch06).
-- ❤ Contributing to Open Source.
+- 🌱 I’m currently learning DSA, focusing on dynamic programming and graph algorithms.
+- 💁‍♂️ Interested in collaborating on developing a DSA resource website.
 - 💻 Visit my [Portfolio](https://mahesh06.me/portfolio/) for more details about me.
 <!--End Intro-->
 
@@ -68,8 +67,8 @@
     <td width="50%">
       <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
       <p align="center">
-        <a href="https://mahesh06.me/portfolio/" target="_blank">
-          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=portfolio&theme=nightowl&show_owner=true" alt="Portfolio" />
+        <a href="https://mahesh06.me/portfolio/">
+          <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=your-repo-name&theme=nightowl&show_owner=true" alt="Latest Project" />
         </a>
       </p>
     </td>
@@ -95,17 +94,14 @@
 
 <!--Dynamic Quote card updated everyday at 12 PM--> 
 <h2 align="center">🌟 Tʜᴏᴜɢʜᴛ ᴏғ ᴛʜᴇ Dᴀʏ 🌟</h2>
-
-<!--STARTS_HERE_QUOTE_CARD-->
 <p align="center">
     <img src="https://readme-daily-quotes.vercel.app/api?author=Dan%20Millman&quote=The%20secret%20of%20change%20is%20to%20focus%20all%20your%20energy%20not%20on%20fighting%20the%20old%2C%20but%20on%20building%20the%20new.&theme=dark&bg_color=011627&author_color=ffeb95">
 </p>
-<!--ENDS_HERE_QUOTE_CARD-->
 
 <!--Contact Section--> 
 <h2 align="center">🤝 Cᴏɴɴᴇᴄᴛ Wɪᴛʜ Mᴇ 🤝 </h2>
 <div align="center">
- <a href="https://www.linkedin.com/in/mahesh-ch06/" target="_blank">
+ <a href="https://www.linkedin.com/in/mahesh-chitikeshi-b7a0982b9/" target="_blank">
 <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
 </a>
   
@@ -113,7 +109,7 @@
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
 </a>
 
-<a href="https://twitter.com/Mahesh-ch06" target="_blank">
+<a href="https://twitter.com/okaditya84" target="_blank">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
 </a>
 </div>
