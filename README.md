@@ -66,7 +66,6 @@
   <tr>
     <td width="50%">
 <h3 align="center"><strong>Lᴀᴛᴇsᴛ Pʀᴏᴊᴇᴄᴛ</strong></h3>
-      <p align="center">Explore my latest project that showcases my skills in developing interactive applications and demonstrates my commitment to continuous learning in the field of technology.</p>
       <p align="center">
         <a href="https://mahesh06.me/portfolio/" target="_blank">
           <img align="center" width="470" src="https://github-readme-stats.vercel.app/api/pin/?username=Mahesh-ch06&repo=portfolio&theme=nightowl&show_owner=true" alt="Portfolio" />
