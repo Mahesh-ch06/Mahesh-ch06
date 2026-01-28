@@ -14,7 +14,7 @@
 - ✨ Student of life :)
 - 🌱 I’m currently learning DSA, focusing on dynamic programming and graph algorithms.
 - 💁‍♂️ Interested in collaborating on developing a DSA resource website.
-- 💻 Visit my [Portfolio](https://mahesh06.me/portfolio/) for more details about me.
+- 💻 Visit my [Portfolio](https://www.mahesh.contact/) for more details about me.
 <!--End Intro-->
 
 <!--Profile Count Badge-->
